@@ -126,7 +126,7 @@ apiDF.reset_index()
 candionero2 = json_normalize(apiDF['items'])
 candionero2.columns
 #creo un dataframe conformado por las columnas de candionero2, con los campos que me sirven
-dfinal = candionero2[['added_by.id','track.name', 'track.external_urls.spotify', 'track.popularity']]
+dfinal = candionero2[['added_by.id','track.name', 'track.external_urls.spotify', 'track.href', 'track.id'  ,'track.popularity']]
 
 #guardamos el dataframe en un csv
 dfinal.to_csv("./output/SpotifyApi.csv", index = False)
