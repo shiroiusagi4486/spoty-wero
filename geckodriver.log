@@ -1,0 +1,102 @@
+1563501980515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\usagi\\AppData\\Local\\Temp\\rust_mozprofile.SrVdd5QbGUVN"
+1563501981494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563501981494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1563501981495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563501981496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563501984979	Marionette	INFO	Listening on port 60947
+1563501985449	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563494925197%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 12940, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12940, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10472, C[Child 17704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 12940, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 26824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2681563510382445	Marionette	INFO	Stopped listening on port 60947
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+NG: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21816, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1563502219038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\usagi\\AppData\\Local\\Temp\\rust_mozprofile.ECFWcRqOckOw"
+1563502219911	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563502219911	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1563502219912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563502219912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563502223021	Marionette	INFO	Listening on port 61042
+1563502223373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1563502238152	Marionette	INFO	Stopped listening on port 61042
+[Parent 6072, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 28144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_wi[Childn.c 29552c, lin, Chreo m3e_ChildThread] WA41
+RNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 6072, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 28932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 28932, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[1563502258161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\usagi\\AppData\\Local\\Temp\\rust_mozprofile.V54jXSEg8EW5"
+1563502258985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563502258985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1563502258986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563502258986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563502262104	Marionette	INFO	Listening on port 61135
+1563502262483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563494925197%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://open.scdn.co/static/vendor.822727f9.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 19936, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19936, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel[Child_win. 1352cc, line 341
+0, Chrome_C[hCildThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 19936, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1562361253/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil1563510376963	Marionette	INFO	Stopped listening on port 61135
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
